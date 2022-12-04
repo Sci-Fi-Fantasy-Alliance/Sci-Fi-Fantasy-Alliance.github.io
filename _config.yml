@@ -1,4 +1,9 @@
-source        : ./SOP/wiki
-lsi           : false
-safe          : true
-incremental   : false
+
+title: SFFA Docs
+description: A starter template for a Jeykll site using the Just the Docs theme!
+theme: just-the-docs
+
+url: https://sci-fi-fantasy-alliance.github.io/
+
+aux_links:
+  Template Repository: https://github.com/Sci-Fi-Fantasy-Alliance/Sci-Fi-Fantasy-Alliance.github.io

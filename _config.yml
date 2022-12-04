@@ -1,0 +1,4 @@
+source        : ./SOP/wiki
+lsi           : false
+safe          : true
+incremental   : false

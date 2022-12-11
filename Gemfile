@@ -7,3 +7,4 @@ gem "just-the-docs", "0.4.0.rc3" # currently the latest pre-release
 # gem "just-the-docs"            # the latest release - currently 0.3.3
 
 gem 'jekyll-remote-theme', '~> 0.4.3' # Use remote theme
+gem 'jekyll-relative-links', '~> 0.6.1' # Use relative links

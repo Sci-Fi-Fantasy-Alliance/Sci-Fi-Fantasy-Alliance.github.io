@@ -2,7 +2,7 @@
 name: Deploy Jekyll site to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes targeting the default branch with tags matching v1.*
   push:
     branches:
       - "main"

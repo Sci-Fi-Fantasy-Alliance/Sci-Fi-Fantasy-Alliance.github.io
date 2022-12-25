@@ -3,11 +3,20 @@ title: SFFA Docs
 description: A starter template for a Jeykll site using the Just the Docs theme!
 url: https://sci-fi-fantasy-alliance.github.io/
 
+markdown: kramdown
+
 permalink: pretty
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
   - jekyll-relative-links
+  - jekyll-spaceship
 
 relative_links:
   enabled: true #default (true)

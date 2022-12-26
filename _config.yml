@@ -28,6 +28,23 @@ aux_links:
 
 remote_theme: Sci-Fi-Fantasy-Alliance/just-the-docs
 
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 jekyll-spaceship:
   # default enabled processors
   processors:
